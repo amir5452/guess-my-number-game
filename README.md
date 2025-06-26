@@ -6,7 +6,7 @@ A fun and interactive number guessing game built with HTML, CSS, and JavaScript.
 _(Screenshot of the game in action)_
 
 ## 🌐 Live Demo
-Play the game online: [https://amir5452.github.io/guess-my-number-game/](https://amir5452.github.io/guess-my-number-game/)
+Play the game online: [https://amirreza-ansari.github.io/guess-my-number-game/](https://amirreza-ansari.github.io/guess-my-number-game/)
 
 ## 🚀 How to Play
 
